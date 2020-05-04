@@ -1,0 +1,12 @@
+
+body
+{
+    background-color: aqua;
+}
+form{
+    align-items: center;
+    margin: auto;
+}
+table, th, td {
+    border: 2px solid rgb(3, 145, 121);
+ }
